@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RustamNigmatullin
 - 👀 I’m interested in Tech, Oil and Gas industry
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift (see my CodeWars profile https://www.codewars.com/users/RustamNigmatullin/badges/large?theme=light)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
